@@ -1,0 +1,1 @@
+This is a project based on a series of blog posts by Nerijus Arlauskas titled "Rust and OpenGL from scratch" (nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-00-setup.html)
